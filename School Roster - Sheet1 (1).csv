@@ -1,8 +1,4 @@
 Grade,First Name,Last Name,Teacher
-1,Ayden,Liu,Calvillo
-1,Raul,Mastache,Calvillo
-1,Toby,Miller,Calvillo
-1,Cesar,Spindola,Calvillo
 1,Destry,Allen,Leon-castro
 1,Sofia,Barahona,Leon-castro
 1,Rainne,Brzezinski,Leon-castro
@@ -61,26 +57,33 @@ Grade,First Name,Last Name,Teacher
 1,Abel,Rodriguez,Otsubo
 1,Nicole,Seino-Munoz,Otsubo
 1,Dillyn,Spears,Otsubo
-1,Nova,Allen,Robles
-1,Dylan,Antonio Martinez,Robles
-1,Rasheed,Butler,Robles
-1,Rayza,Cardenas Madrid,Robles
-1,Eden,Carrillo Ponce,Robles
-1,Loyal,Chatman,Robles
-1,Jacob,Cornejo,Robles
-1,Eligh,Dalton,Robles
-1,Maddison,Garduque,Robles
-1,Jonnae,High,Robles
-1,Ruben,Mendez,Robles
-1,Ian,Perez,Robles
-1,Ezekiel,Perez-Cruz,Robles
-1,Leah,Quesada,Robles
-1,Jorge,Rosales,Robles
-1,Princess,Serrano,Robles
-1,Dapeng,Wen,Robles
-1,Sebastian,Zambrano Tapia,Robles
-2,Ruben,Acosta,Calvillo
-2,Anthony,Gardinier,Calvillo
+1,Nova,Allen,Robles + Calvillo
+1,Dylan,Antonio Martinez,Robles + Calvillo
+1,Rasheed,Butler,Robles + Calvillo
+1,Rayza,Cardenas Madrid,Robles + Calvillo
+1,Eden,Carrillo Ponce,Robles + Calvillo
+1,Loyal,Chatman,Robles + Calvillo
+1,Jacob,Cornejo,Robles + Calvillo
+1,Eligh,Dalton,Robles + Calvillo
+1,Maddison,Garduque,Robles + Calvillo
+1,Jonnae,High,Robles + Calvillo
+1,Ruben,Mendez,Robles + Calvillo
+1,Ian,Perez,Robles + Calvillo
+1,Ezekiel,Perez-Cruz,Robles + Calvillo
+1,Leah,Quesada,Robles + Calvillo
+1,Jorge,Rosales,Robles + Calvillo
+1,Princess,Serrano,Robles + Calvillo
+1,Dapeng,Wen,Robles + Calvillo
+1,Sebastian,Zambrano Tapia,Robles + Calvillo
+1,Ayden,Liu,Robles + Calvillo
+1,Raul,Mastache,Robles + Calvillo
+1,Toby,Miller,Robles + Calvillo
+1,Cesar,Spindola,Robles + Calvillo
+1,Ruben,Acosta,Robles + Calvillo
+1,Anthony,Gardinier,Robles + Calvillo
+1,Jayla,Chames,Robles + Calvillo
+1,Jaretzi,Esparza Martinez,Robles + Calvillo
+1,Jason,Prach,Robles + Calvillo
 2,Arlene,Antonio Vazquez,Green
 2,DaRon,Brewster,Green
 2,Lucas,Bustos Cabello,Green
@@ -99,43 +102,43 @@ Grade,First Name,Last Name,Teacher
 2,Jacqueline,Lujan Lopez,Green
 2,Yaumel,Perez Elias,Green
 2,Rosario,Torres Ruiz,Green
-2,Kalani,Allah,Hollan
-2,Giovanni,Ardona Garcia,Hollan
-2,Evelyn,Avila Toyoda,Hollan
-2,Adan,Avina,Hollan
-2,Luke,Ayres,Hollan
-2,Jesus,Carmona Lopez,Hollan
-2,Edwin,Chavez Gonzalez,Hollan
-2,Olivia,Cuthbertson,Hollan
-2,Skyla,Keaulani,Hollan
-2,Sophia,Ledezma,Hollan
-2,Alexa,Martinez,Hollan
-2,Courtney,Medina,Hollan
-2,Abigail,Nepomuceno,Hollan
-2,Lincoln,Ploeger,Hollan
-2,Diosalyn,Quiambao,Hollan
-2,Marcelino,Quintana,Hollan
-2,Sarahi,Reyes Valdovinos,Hollan
-2,Deborah,Trejo-Avina,Hollan
-2,Michael,Begay,Jackson
-2,Dante,Chirrick,Jackson
-2,Pedro,Cruz-Guzman,Jackson
-2,Da'Marion,Flanagan,Jackson
-2,Alexander,Gonzalez Godinez,Jackson
-2,Noah,Gowdy,Jackson
-2,Samir,Infante Evora,Jackson
-2,Brooklyn,Johnson,Jackson
-2,Miracle,Lindsey,Jackson
-2,Martin,Marcial Cruz,Jackson
-2,Harmony,Martinez,Jackson
-2,Alejandra,Martinez Hernandez,Jackson
-2,Kathrine,Menjivar,Jackson
-2,Dominic,Montoya,Jackson
-2,Emmanuel,Rodriguez,Jackson
-2,William,Slack,Jackson
-2,Deka,Spencer,Jackson
-2,Jeans,Tamayo Serrano,Jackson
-2,Leon,Valencia,Jackson
+2,Kalani,Allah,Hollan + Jackson
+2,Giovanni,Ardona Garcia,Hollan + Jackson
+2,Evelyn,Avila Toyoda,Hollan + Jackson
+2,Adan,Avina,Hollan + Jackson
+2,Luke,Ayres,Hollan + Jackson
+2,Jesus,Carmona Lopez,Hollan + Jackson
+2,Edwin,Chavez Gonzalez,Hollan + Jackson
+2,Olivia,Cuthbertson,Hollan + Jackson
+2,Skyla,Keaulani,Hollan + Jackson
+2,Sophia,Ledezma,Hollan + Jackson
+2,Alexa,Martinez,Hollan + Jackson
+2,Courtney,Medina,Hollan + Jackson
+2,Abigail,Nepomuceno,Hollan + Jackson
+2,Lincoln,Ploeger,Hollan + Jackson
+2,Diosalyn,Quiambao,Hollan + Jackson
+2,Marcelino,Quintana,Hollan + Jackson
+2,Sarahi,Reyes Valdovinos,Hollan + Jackson
+2,Deborah,Trejo-Avina,Hollan + Jackson
+2,Michael,Begay,Hollan + Jackson
+2,Dante,Chirrick,Hollan + Jackson
+2,Pedro,Cruz-Guzman,Hollan + Jackson
+2,Da'Marion,Flanagan,Hollan + Jackson
+2,Alexander,Gonzalez Godinez,Hollan + Jackson
+2,Noah,Gowdy,Hollan + Jackson
+2,Samir,Infante Evora,Hollan + Jackson
+2,Brooklyn,Johnson,Hollan + Jackson
+2,Miracle,Lindsey,Hollan + Jackson
+2,Martin,Marcial Cruz,Hollan + Jackson
+2,Harmony,Martinez,Hollan + Jackson
+2,Alejandra,Martinez Hernandez,Hollan + Jackson
+2,Kathrine,Menjivar,Hollan + Jackson
+2,Dominic,Montoya,Hollan + Jackson
+2,Emmanuel,Rodriguez,Hollan + Jackson
+2,William,Slack,Hollan + Jackson
+2,Deka,Spencer,Hollan + Jackson
+2,Jeans,Tamayo Serrano,Hollan + Jackson
+2,Leon,Valencia,Hollan + Jackson
 2,Alina,Alvarez,Moler
 2,Aaron,Askin,Moler
 2,Adrian,Cornejo,Moler
@@ -211,60 +214,69 @@ Grade,First Name,Last Name,Teacher
 3,Jameis,Sutherland,Bautista
 3,Mia,Villalta,Bautista
 3,Christian,Zermeno,Bautista
-3,Flor,Aguilar,Concepcion
-3,Marco,Alcina Portuondo,Concepcion
-3,Carlos,Andrade Barahona,Concepcion
-3,Chanel,Castillo,Concepcion
-3,Oscar,Clares Prats,Concepcion
-3,Kai,Clark,Concepcion
-3,Saniyah,Gradney,Concepcion
-3,Scott,Jones,Concepcion
-3,Keira,Jordan,Concepcion
-3,Valeria,Juarez Chicatto,Concepcion
-3,Marley,Kieffer,Concepcion
-3,Emily,Martinez Ruiz,Concepcion
-3,Jewell,McGhee,Concepcion
-3,Leahana,Mejia,Concepcion
-3,Aidyn,Nelson,Concepcion
-3,Ethan,Perez,Concepcion
-3,Axel,Rivera,Concepcion
-3,Isaac,Salguero,Concepcion
-3,La'Zariah,Smith,Concepcion
-3,Bri'yah,Taylor,Concepcion
-3,Emma,Valencia,Concepcion
-3,Rodrigo,Vega,Concepcion
-3,Kevin,Zermeno,Concepcion
-3,Kingsley,Evans-Greer,Mcguinness
-3,Luis,Juarez-Marrero,Mcguinness
-3,Freya,Sharma,Mcguinness
-3,Demitra,Jones,Roberts
-3,Jaymee,Lepe,Roberts
-3,Marcelles,Turner,Roberts
-3,Elijah,Asuncion,Rosenberger
-3,Noah,Atencio,Rosenberger
-3,Aiden,Cordon Sosa,Rosenberger
-3,Andrew,Cruz,Rosenberger
-3,Willow,Galvan,Rosenberger
-3,Roselyn,Garcia,Rosenberger
-3,Julianys,Gonzalez Mendoza,Rosenberger
-3,Alischar,Gonzalez Plascencia,Rosenberger
-3,August,Hoover,Rosenberger
-3,Julieta,Luna,Rosenberger
-3,Nathalye,Marcial Olmos,Rosenberger
-3,KyYinea,Matthews,Rosenberger
-3,Dylan,Mejia Hernandez,Rosenberger
-3,Stella,Morales,Rosenberger
-3,Veronica,Nickles,Rosenberger
-3,Yareli,Perez,Rosenberger
-3,Will,Robinson,Rosenberger
-3,Destyn,Sanford,Rosenberger
-3,Allegria,Thompson,Rosenberger
-3,Ximena,Villalba Regino,Rosenberger
-3,Fabian,Zambrano Tapia,Rosenberger
-3,Reyna,Zarate Jimenez,Rosenberger
-3,Melanie,Alvarez-Villasenor,Tapang
-3,Pablo,Seino-Munoz,Tapang
-3,Edward,Sierra,Tapang
+3,Flor,Aguilar,Concepcion + Tapang
+3,Marco,Alcina Portuondo,Concepcion + Tapang
+3,Carlos,Andrade Barahona,Concepcion + Tapang
+3,Chanel,Castillo,Concepcion + Tapang
+3,Oscar,Clares Prats,Concepcion + Tapang
+3,Kai,Clark,Concepcion + Tapang
+3,Saniyah,Gradney,Concepcion + Tapang
+3,Scott,Jones,Concepcion + Tapang
+3,Keira,Jordan,Concepcion + Tapang
+3,Valeria,Juarez Chicatto,Concepcion + Tapang
+3,Marley,Kieffer,Concepcion + Tapang
+3,Emily,Martinez Ruiz,Concepcion + Tapang
+3,Jewell,McGhee,Concepcion + Tapang
+3,Leahana,Mejia,Concepcion + Tapang
+3,Aidyn,Nelson,Concepcion + Tapang
+3,Ethan,Perez,Concepcion + Tapang
+3,Axel,Rivera,Concepcion + Tapang
+3,Isaac,Salguero,Concepcion + Tapang
+3,La'Zariah,Smith,Concepcion + Tapang
+3,Bri'yah,Taylor,Concepcion + Tapang
+3,Emma,Valencia,Concepcion + Tapang
+3,Rodrigo,Vega,Concepcion + Tapang
+3,Kevin,Zermeno,Concepcion + Tapang
+3,Elijah,Asuncion,Rosenberger + Mcguinness
+3,Noah,Atencio,Rosenberger + Mcguinness
+3,Aiden,Cordon Sosa,Rosenberger + Mcguinness
+3,Andrew,Cruz,Rosenberger + Mcguinness
+3,Willow,Galvan,Rosenberger + Mcguinness
+3,Roselyn,Garcia,Rosenberger + Mcguinness
+3,Julianys,Gonzalez Mendoza,Rosenberger + Mcguinness
+3,Alischar,Gonzalez Plascencia,Rosenberger + Mcguinness
+3,August,Hoover,Rosenberger + Mcguinness
+3,Julieta,Luna,Rosenberger + Mcguinness
+3,Nathalye,Marcial Olmos,Rosenberger + Mcguinness
+3,KyYinea,Matthews,Rosenberger + Mcguinness
+3,Dylan,Mejia Hernandez,Rosenberger + Mcguinness
+3,Stella,Morales,Rosenberger + Mcguinness
+3,Veronica,Nickles,Rosenberger + Mcguinness
+3,Yareli,Perez,Rosenberger + Mcguinness
+3,Will,Robinson,Rosenberger + Mcguinness
+3,Destyn,Sanford,Rosenberger + Mcguinness
+3,Allegria,Thompson,Rosenberger + Mcguinness
+3,Ximena,Villalba Regino,Rosenberger + Mcguinness
+3,Fabian,Zambrano Tapia,Rosenberger + Mcguinness
+3,Reyna,Zarate Jimenez,Rosenberger + Mcguinness
+3,Kingsley,Evans-Greer,Rosenberger + Mcguinness
+3,Luis,Juarez-Marrero,Rosenberger + Mcguinness
+3,Freya,Sharma,Rosenberger + Mcguinness
+3,Atom,Anderegg,Rosenberger + Mcguinness
+3,Oktober,Andrews,Rosenberger + Mcguinness
+3,Maritza,Galaviz-Franco,Rosenberger + Mcguinness
+3,Chase,Huebner,Rosenberger + Mcguinness
+3,Prince,Rackley,Rosenberger + Mcguinness
+3,Genesis,Whitehead-Cooper,Rosenberger + Mcguinness
+3,Evan,Wilson,Rosenberger + Mcguinness
+3,Melanie,Alvarez-Villasenor,Concepcion + Tapang
+3,Pablo,Seino-Munoz,Concepcion + Tapang
+3,Edward,Sierra,Concepcion + Tapang
+3,Conall,Melo Loya,Concepcion + Tapang
+3,Miguel,Paredes,Concepcion + Tapang
+3,Kenneth,Cordon-Sosa,Concepcion + Tapang
+3,Yamira,Martinez Hernandez,Concepcion + Tapang
+3,Angelique,Spindola,Concepcion + Tapang
 4,Nathan,Aguilar,Cohen
 4,Kamila,Angel,Cohen
 4,Jacob,Arellano Guirigay,Cohen
@@ -287,16 +299,6 @@ Grade,First Name,Last Name,Teacher
 4,Austin,Uribe-Pacheco,Cohen
 4,Regina,Vilchez Gonzalez,Cohen
 4,Dulce Maria,Zambrano Tapia,Cohen
-4,Atom,Anderegg,Mcguinness
-4,Oktober,Andrews,Mcguinness
-4,Maritza,Galaviz-Franco,Mcguinness
-4,Chase,Huebner,Mcguinness
-4,Prince,Rackley,Mcguinness
-4,Genesis,Whitehead-Cooper,Mcguinness
-4,Ja'ceon,Bennet,Roberts
-4,Liam,Correo Galicia,Roberts
-4,Giovanni,Flores Rodriguez,Roberts
-4,Julian,Valadez,Roberts
 4,Jahvian,Barton,Smith
 4,Josimar,Bello Zuniga,Smith
 4,Isabel,Claros Arevalo,Smith
@@ -319,28 +321,26 @@ Grade,First Name,Last Name,Teacher
 4,Kayshawn,Taylor,Smith
 4,Logan,Trujillo,Smith
 4,Mya,Warnick,Smith
-4,Maraya,Alvarez,Staff
-4,Elisa,Benitez Reyes,Staff
-4,Zoe,Coello Cordero,Staff
-4,Anderson,Cruz,Staff
-4,Daniel,Echeverria,Staff
-4,Gilbert,Gonzales,Staff
-4,Jesieliz,Gonzalez-Rivera,Staff
-4,Bryan,Hernandez Chavez,Staff
-4,Jonique,High,Staff
-4,Sa'Naja,Johnson,Staff
-4,Angel,Marquez,Staff
-4,Aniyah,Marshall,Staff
-4,Ivan,Mota,Staff
-4,Lissa,Paz,Staff
-4,Liz,Perez Elias,Staff
-4,Dominick,Rodriguez,Staff
-4,Osmany,Suarez Izquierdo,Staff
-4,Malaysia,Taylor,Staff
-4,Niko,Tejeda,Staff
-4,Ethan,Tolliver,Staff
-4,Conall,Melo Loya,Tapang
-4,Miguel,Paredes,Tapang
+4,Maraya,Alvarez,Sanders
+4,Elisa,Benitez Reyes,Sanders
+4,Zoe,Coello Cordero,Sanders
+4,Anderson,Cruz,Sanders
+4,Daniel,Echeverria,Sanders
+4,Gilbert,Gonzales,Sanders
+4,Jesieliz,Gonzalez-Rivera,Sanders
+4,Bryan,Hernandez Chavez,Sanders
+4,Jonique,High,Sanders
+4,Sa'Naja,Johnson,Sanders
+4,Angel,Marquez,Sanders
+4,Aniyah,Marshall,Sanders
+4,Ivan,Mota,Sanders
+4,Lissa,Paz,Sanders
+4,Liz,Perez Elias,Sanders
+4,Dominick,Rodriguez,Sanders
+4,Osmany,Suarez Izquierdo,Sanders
+4,Malaysia,Taylor,Sanders
+4,Niko,Tejeda,Sanders
+4,Ethan,Tolliver,Sanders
 4,Thiago,Almaguer Gonzalez,Todechiney
 4,Estrella,Avila Toyoda,Todechiney
 4,William,Ayres,Todechiney
@@ -361,33 +361,39 @@ Grade,First Name,Last Name,Teacher
 4,Penelope-Belle,Tanudtanud,Todechiney
 4,Anthony,Vallejo Noguera,Todechiney
 4,Mia,Warnick,Todechiney
-5,Liam,Ceron Flores,Mcfarlin
-5,Donovan,Dominguez,Mcfarlin
-5,Danita,Dragon-Song,Mcfarlin
-5,John,Figueroa-De La Cruz,Mcfarlin
-5,Viviana,Hernandez,Mcfarlin
-5,Tiana,Kirkwood,Mcfarlin
-5,Alexia,Larraga,Mcfarlin
-5,Oliver,Leavitt,Mcfarlin
-5,Violett,Leyva,Mcfarlin
-5,Irving,Lopez Galicia,Mcfarlin
-5,Alianna,Martinez,Mcfarlin
-5,Destiny,Minton,Mcfarlin
-5,Daniel,Ornelas,Mcfarlin
-5,Ivan,Paz-Garcia,Mcfarlin
-5,Sophia,Perez-Machin,Mcfarlin
-5,Nathaniel,Perry,Mcfarlin
-5,Theodore,Serrano,Mcfarlin
-5,Meredith,Soto-Plaza,Mcfarlin
-5,Romeo,Vega,Mcfarlin
-5,Ja'Meya,Wright,Mcfarlin
-5,Evan,Wilson,Mcguinness
-5,Dylan,Arreola Munguia,Roberts
-5,Olivia,Gomez,Roberts
-5,Bella,Gutierrez,Roberts
-5,Jazmin,Henriquez Abarca,Roberts
-5,Tatianna,Morales,Roberts
-5,Angel,Soto Alvarez,Roberts
+5,Liam,Ceron Flores,Mcfarlin + Roberts
+5,Donovan,Dominguez,Mcfarlin + Roberts
+5,Danita,Dragon-Song,Mcfarlin + Roberts
+5,John,Figueroa-De La Cruz,Mcfarlin + Roberts
+5,Viviana,Hernandez,Mcfarlin + Roberts
+5,Tiana,Kirkwood,Mcfarlin + Roberts
+5,Alexia,Larraga,Mcfarlin + Roberts
+5,Oliver,Leavitt,Mcfarlin + Roberts
+5,Violett,Leyva,Mcfarlin + Roberts
+5,Irving,Lopez Galicia,Mcfarlin + Roberts
+5,Alianna,Martinez,Mcfarlin + Roberts
+5,Destiny,Minton,Mcfarlin + Roberts
+5,Daniel,Ornelas,Mcfarlin + Roberts
+5,Ivan,Paz-Garcia,Mcfarlin + Roberts
+5,Sophia,Perez-Machin,Mcfarlin + Roberts
+5,Nathaniel,Perry,Mcfarlin + Roberts
+5,Theodore,Serrano,Mcfarlin + Roberts
+5,Meredith,Soto-Plaza,Mcfarlin + Roberts
+5,Romeo,Vega,Mcfarlin + Roberts
+5,Ja'Meya,Wright,Mcfarlin + Roberts
+5,Demitra,Jones,McFarlin + Roberts
+5,Jaymee,Lepe,McFarlin + Roberts
+5,Marcelles,Turner,McFarlin + Roberts
+5,Ja'ceon,Bennet,McFarlin + Roberts
+5,Liam,Correo Galicia,McFarlin + Roberts
+5,Giovanni,Flores Rodriguez,McFarlin + Roberts
+5,Julian,Valadez,McFarlin + Roberts
+5,Dylan,Arreola Munguia,McFarlin + Roberts
+5,Olivia,Gomez,McFarlin + Roberts
+5,Bella,Gutierrez,McFarlin + Roberts
+5,Jazmin,Henriquez Abarca,McFarlin + Roberts
+5,Tatianna,Morales,McFarlin + Roberts
+5,Angel,Soto Alvarez,McFarlin + Roberts
 5,Isabella,Antonio Vazquez,Robinson
 5,Nahomy,Baez Gutierrez,Robinson
 5,Edgar,Castillo,Robinson
@@ -455,12 +461,6 @@ Grade,First Name,Last Name,Teacher
 5,William,Velasquez,Stewart
 5,Camila,Villasmil Mejias,Stewart
 5,Alice,Viveros,Stewart
-5,Kenneth,Cordon-Sosa,Tapang
-5,Yamira,Martinez Hernandez,Tapang
-5,Angelique,Spindola,Tapang
-0K,Jayla,Chames,Calvillo
-0K,Jaretzi,Esparza Martinez,Calvillo
-0K,Jason,Prach,Calvillo
 0K,Azaryah,Applewhite,Guerrero-spencer
 0K,Heysell,Barrera Chavez,Guerrero-spencer
 0K,Adrian,Castillo Dominguez,Guerrero-spencer
@@ -531,23 +531,3 @@ Grade,First Name,Last Name,Teacher
 0K,Aarav,Vinoth Kumar,Silverstein
 0K,Joshua,Whitaker,Silverstein
 0K,Kayden,Wyatt,Silverstein
-PK,Ezekiel,Angelov,Ewen-del mastro am
-PK,Lamia,Awerbach,Ewen-del mastro am
-PK,Na'eemah,Awerbach,Ewen-del mastro am
-PK,Ian,Barrera Chavez,Ewen-del mastro am
-PK,Kaya,Caines-Ojeda,Ewen-del mastro am
-PK,Maximiliano,Estrada Gonzalez,Ewen-del mastro am
-PK,Emma,Gingrich,Ewen-del mastro am
-PK,Sofia,Leal,Ewen-del mastro am
-PK,Lucia,Prado,Ewen-del mastro am
-PK,Ricky,Raymond,Ewen-del mastro am
-PK,Daniela,Rojas,Ewen-del mastro am
-PK,Gretell,Sotelo Chavez,Ewen-del mastro am
-PK,Dua,Sozzi,Ewen-del mastro am
-PK,Mayvie,Tanudtanud,Ewen-del mastro am
-PK,Scarlett,Young,Ewen-del mastro am
-PK,Michael,Hall,Ewen-del mastro pm
-PK,Jack,Martinez,Pellano-marek
-PK,Taliya,Mayo-Mims,Pellano-marek
-PK,Dylan,Robles,Pellano-marek
-PK,Thaddeus,Serrano,Pellano-marek
